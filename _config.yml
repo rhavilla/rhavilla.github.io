@@ -14,7 +14,7 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Rhavilla Mendes GitHub # the main title
+title: Rhavilla Mendes # the main title
 
 tagline: Cloud Infra DevOps # it will display as the subtitle
 
